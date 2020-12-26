@@ -106,7 +106,7 @@ console.log(utils.arrJudge(['1','2']))
 |--|--|--|--|--|
 |getQueryString|获取路由传参| name:传参属性|属性值| 1.1.2|
 
-## url.js 4
+## json.js 4
 |方法名|作用|参数|返回值|版本|
 |--|--|--|--|--|
 |isJsonString|判断是否是json字符串| str 字符串|Boolean| 1.1.2|
