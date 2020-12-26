@@ -8,5 +8,6 @@ export default {
   ...require('./lib/str'),
   ...require('./lib/thrDeb'),
   ...require('./lib/time'),
-  ...require('./lib/url')
+  ...require('./lib/url'),
+  ...require('./lib/json')
 }
